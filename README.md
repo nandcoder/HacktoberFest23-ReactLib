@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Contributing to this project
+
+Read the guides in [CONTRIBUTING.md](https://github.com/nandcoder/HacktoberFest23-ReactLib/blob/main/CONTRIBUTING.md)
+
 ## Available Scripts
 
 In the project directory, you can run:
