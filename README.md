@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Contributing to this project
 
-Read the guides in [Contributing.md]([https://github.com/facebook/create-react-app](https://github.com/nandcoder/HacktoberFest23-ReactLib/blob/main/CONTRIBUTING.md))
+Read the guides in [CONTRIBUTING.md](https://github.com/nandcoder/HacktoberFest23-ReactLib/blob/main/CONTRIBUTING.md)
 
 ## Available Scripts
 
