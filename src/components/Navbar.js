@@ -8,13 +8,10 @@ function Header() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="/">HacktoberFest23-ReactLib</Navbar.Brand>
+          <Navbar.Brand href="/">Effects of Recession</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">
               Home
-            </Nav.Link>
-            <Nav.Link href="#features">
-              Button
             </Nav.Link>
             <Nav.Link href="/form">
               Form 
